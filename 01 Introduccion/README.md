@@ -16,7 +16,7 @@ Descripción:
 •	La preferencia de colores del cliente es azul marino y blanco, pero acepta propuestas.  
 
 # Toma de requerimientos 
-Para la toma de requerimientos se utilizo una plantilla de Word en la que se especifican requerimientos funcionales y no funcionales.  Se puede observar en el documento 1. Requerimientos
+Para la toma de requerimientos se utilizo una plantilla de Word en la que se especifican requerimientos funcionales y no funcionales.  Se puede observar en el documento 1. Requerimientos https://docs.google.com/document/d/1NSu7sqaJu_rLASBAiRxqJR4iwWAh9dE1/edit?usp=sharing&ouid=106446993433997465895&rtpof=true&sd=true
 
 # Buyer persona
 Se uso plantilla en pdf.  
