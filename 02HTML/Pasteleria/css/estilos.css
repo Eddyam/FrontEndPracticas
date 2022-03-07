@@ -1,0 +1,157 @@
+body {
+    /* background-color: #7c121e; */
+    background-image: url("../assets/pink_rice.png");
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0%;
+}
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 70px;
+    background-color: #e7be50;
+    margin-bottom: 20px;
+    border-radius: 0 0 20px 20px;
+}
+
+footer {
+    background-color: #e7be50;
+    text-align: center;
+    border-radius: 20px 20px 0 0;
+    padding: 10px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+
+.logo {
+    cursor: pointer;
+    height:160px;
+    width: 130px;
+
+}
+
+.nav-area {
+    list-style: none;
+}
+
+.nav-area li {
+    display: inline-block;
+    padding: 0 15px;
+    text-transform: uppercase;
+}
+
+.nav-area li a {
+    transition: .3s;
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-area li a:hover {
+    color: #d22938;
+}
+
+.principal {
+    width: 50%;
+    float: left;
+}
+
+.pastel1 {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+    border-radius: 25px;
+    margin-left: 10px;
+}
+
+.texto {
+    width: 50%;
+    float: right;
+    padding: 40px 60px;
+    box-sizing: border-box;
+}
+
+.izquierda{
+    height:50%;
+    background-color:#DAF7E2;
+    float:left;
+    width:50%;
+}
+
+
+.derecha{
+    height:50%;
+    background-color:#DAF7E2;
+    float:right;
+    width:50%;
+    margin-left: 25px;
+}
+
+.imagenizq {
+    width: 400px;
+}
+
+.contacto {
+    padding: 30px;
+    height:auto;
+    text-align: center  ;
+    clear: both;
+}
+
+
+.menu {
+    text-align: center;
+}
+
+.titulo {
+    font-size: 40px;
+}
+
+.sabores {
+    width: 250px;
+    height: 200px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+
+.catalogo {
+    /* background-color: #62306D; */
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.catalogo p {
+    text-align: center;
+    font-weight: bold;
+} 
+
+.formulario {
+    text-align: center;
+}
+
+.pedidos {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left; 
+
+    border: 1px;
+}
+
+
+.cantidades {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
